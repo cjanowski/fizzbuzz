@@ -1,3 +1,2 @@
 # fizzbuzz
-Python Fizz Buzz
-Show me a faster fizzbuzz
+Show me a faster Python Fizz Buzz
